@@ -11,6 +11,9 @@ ini adalah kode untuk menginput jenis kendaraan, jam masuk, dan jam keluar dari 
 
 <img width="262" height="41" alt="parkirTerminal1" src="https://github.com/user-attachments/assets/5224650f-2cf6-4df6-8d5c-e4ccd56fe382" />
 
+
+
+
 <img width="366" height="74" alt="parkirCode3" src="https://github.com/user-attachments/assets/aa0e902e-4dd6-4c88-8c07-b8a473729291" />
 
 ini adalah kodde yang fungsinya menghitung durasi parkir suatu kendaraan
